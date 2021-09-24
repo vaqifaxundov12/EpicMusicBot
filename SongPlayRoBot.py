@@ -38,7 +38,7 @@ def start(client, message):
             [
                 [
                     InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 👬', url='https://t.me/EpicProjects'),
-                    InlineKeyboardButton('Öz Botunu Yarat 👩‍💻', url='link')
+                    InlineKeyboardButton('Öz Botunu Yarat 👩‍💻', url='t.me/epicsup')
                 ]
             ]
         )
