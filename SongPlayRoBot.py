@@ -30,7 +30,7 @@ def time_to_seconds(time):
 ## Commands --------------------------------
 @bot.on_message(filters.command(['start']))
 def start(client, message):
-    TamilBots = f'👋 Salam @{message.from_user.username}\n\nMən musiqi yükləmə botuyam[🎶](link)\n\nDinləmək istədiyin musiqinin adını mənə göndər... 😍🥰🤗\n\nAxtarış /s Musiqi adı\n\nNümunə: `/s Okaber - Axtarma`'
+    TamilBots = f'👋 Salam @{message.from_user.username}\n\nMən musiqi yükləmə botuyam[🎶](https://telegra.ph/file/fe4c4a590e4fbeee6a355.mp4)\n\nDinləmək istədiyin musiqinin adını mənə göndər... 😍🥰🤗\n\nAxtarış /s Musiqi adı\n\nNümunə: `/s Okaber - Axtarma`'
     message.reply_text(
         text=TamilBots, 
         quote=False,
@@ -88,7 +88,7 @@ def a(client, message):
         )
         print(str(e))
         return
-    m.edit("🔎 Musiqi tapılır 🎶 Zəhmət olmasa 1 neçə saniyə gözlə ⏳️[🚀](link)")
+    m.edit("🔎 Musiqi tapılır 🎶 Zəhmət olmasa 1 neçə saniyə gözlə ⏳️[🚀](https://telegra.ph/file/82cc5a21739513504c96f.mp4)")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
