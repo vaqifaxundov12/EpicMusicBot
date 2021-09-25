@@ -1,4 +1,5 @@
 # © EpicProjects 2021-22
+# ® Reponun tərcüməsi @mrjeluxe məxsusdur.
 
 from pyrogram import Client, filters
 from pyrogram.types import (
