@@ -1,4 +1,4 @@
-# © TamilBots 2021-22
+# © EpicProjects 2021-22
 
 from pyrogram import Client, filters
 from pyrogram.types import (
@@ -13,7 +13,7 @@ import os
 from config import Config
 
 bot = Client(
-    'SongPlayRoBot',
+    'EpicProjects',
     bot_token = Config.BOT_TOKEN,
     api_id = Config.API_ID,
     api_hash = Config.API_HASH
@@ -30,7 +30,7 @@ def time_to_seconds(time):
 ## Commands --------------------------------
 @bot.on_message(filters.command(['start']))
 def start(client, message):
-    TamilBots = f'👋 Salam @{message.from_user.username}\n\nMən musiqi yükləmə botuyam[🎶](https://telegra.ph/file/fe4c4a590e4fbeee6a355.mp4)\n\nDinləmək istədiyin musiqinin adını mənə göndər... 😍🥰🤗\n\nAxtarış /s Musiqi adı\n\nNümunə: `/s Okaber - Axtarma`'
+    EpicProjects = f'👋 Salam @{message.from_user.username}\n\nMən musiqi yükləmə botuyam[🎶](https://telegra.ph/file/fe4c4a590e4fbeee6a355.mp4)\n\nDinləmək istədiyin musiqinin adını mənə göndər... 😍🥰🤗\n\nAxtarış /s Musiqi adı\n\nNümunə: `/s Okaber - Axtarma`'
     message.reply_text(
         text=TamilBots, 
         quote=False,
