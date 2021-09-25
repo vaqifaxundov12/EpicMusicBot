@@ -18,7 +18,7 @@ Sadə Deploy 🤗
 4) Reponu manual deploy et. 
 ```
 ![logo](https://telegra.ph/file/17a93ff1382771c992964.jpg)
-#[Musiqi Bot🎶](https:t.me/....)
+# [Musiqi Bot🎶](https:t.me/....)
 
 # Xətaları bildir və ya kömək istə :
 [Channel 💬](https://t.me/EpicProjects), 
