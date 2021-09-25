@@ -14,7 +14,7 @@ Sadə Deploy 🤗
 ```
 1) Reponu forkla,
 2) config.py editlə və dəyərləri özünküləşdir (API_ID, API_HASH və BOT_TOKEN),
-3) Heroku App yarat və And Github reponla əlaqələndir, 
+3) Heroku App yarat və Github reponla əlaqələndir, 
 4) Reponu manual deploy et. 
 ```
 ![logo](https://telegra.ph/file/17a93ff1382771c992964.jpg)
@@ -24,4 +24,4 @@ Sadə Deploy 🤗
 [Channel 💬](https://t.me/EpicProjects), 
 [Support ❤️](https://t.me/EpicSup) 
 
-Xətanı öz adınla bu şəxsə bildir 📲 [Je Luxe🧑‍💻](https://t.me/sammekkim) 😪
+Xətanı öz adınla bu şəxsə bildir 📲 [Je Luxe🧑‍💻](https://t.me/sammekkim)
