@@ -1,21 +1,21 @@
-# SongPlayRoBot
+# Musiqi Bot
 
-📺 YouTube Song Downloader Bot For Telegram 🔮
+📺 Telegram üçün YouTube Musiqi Yükləmə Botu🔮
 
-3X Fast Telethon Based Bot ⚜
+3X sürətli Telethon əsaslı Bot ⚜
 
-Open Source Bot 👨🏻‍💻
+Açıq mənbəli Bot 👨🏻‍💻
 
-Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongProBot)
+Demo : [Epic Song Bot🎶](https:t.me/SongProBot)
 
-Easy To Deploy 🤗
+Sadə Deploy 🤗
 
-## 💡 Deploy This Bot To Heroku ❓️
+## 💡 Heroku'ya Deploy❓️
 ```
-1) Fork The Repository,
-2) Edit config.py And Add Values API_ID, API_HASH And Your Bot Token,
-3) Create An App On Heroku And Connect Heroku With Your Github Repository, 
-4) Manual Deploy To Your Repository. 
+1) Reponu forkla,
+2) config.py editlə və dəyərləri özünküləşdir (API_ID, API_HASH və BOT_TOKEN),
+3) Heroku App yarat və And Github reponla əlaqələndir, 
+4) Reponu manual deploy et. 
 ```
 ![logo](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)
 # Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongProBot)
