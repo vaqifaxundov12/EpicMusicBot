@@ -6,7 +6,7 @@
 
 Açıq mənbəli Bot 👨🏻‍💻
 
-Demo : [Epic Song Bot🎶](https:t.me/SongProBot)
+Demo : [Epic Song Bot🎶](https:t.me/.....)
 
 Sadə Deploy 🤗
 
@@ -17,11 +17,11 @@ Sadə Deploy 🤗
 3) Heroku App yarat və And Github reponla əlaqələndir, 
 4) Reponu manual deploy et. 
 ```
-![logo](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)
-# Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongProBot)
+![logo](https://telegra.ph/file/17a93ff1382771c992964.jpg)
+#[Musiqi Bot🎶](https:t.me/....)
 
-# Report Any Error or Help Contact :
-[Channel 💬](https://t.me/TamilBots), 
-[Support ❤️](https://t.me/TamilSupport) 
+# Xətaları bildir və ya kömək istə :
+[Channel 💬](https://t.me/EpicProjects), 
+[Support ❤️](https://t.me/EpicSup) 
 
-Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/iMvEtRi) 😪
+Xətanı öz adınla bu şəxsə bildir 📲 [Je Luxe🧑‍💻](https://t.me/sammekkim) 😪
