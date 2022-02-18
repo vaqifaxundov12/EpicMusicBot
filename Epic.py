@@ -39,7 +39,7 @@ def start(client, message):
             [
                 [
                     InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 👬', url='https://t.me/EpicProjects'),
-                    InlineKeyboardButton('Öz Botunu Yarat 👩‍💻', url='t.me/epicsup')
+                    InlineKeyboardButton('Öz Botunu Yarat 👩‍💻', url='t.me/Luxesup')
                 ]
             ]
         )
@@ -81,7 +81,7 @@ def a(client, message):
 
         except Exception as e:
             print(e)
-            m.edit('Heçnı taplmadı, Doğru yazdığından əminsən? 😕')
+            m.edit('Heçnə taplmadı, Doğru yazdığından əminsən? 😕')
             return
     except Exception as e:
         m.edit(
