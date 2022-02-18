@@ -22,6 +22,6 @@ Sadə Deploy 🤗
 
 # Xətaları bildir və ya kömək istə :
 [Channel 💬](https://t.me/EpicProjects), 
-[Support ❤️](https://t.me/EpicSup) 
+[Support ❤️](https://t.me/LuxeSup) 
 
-Xətanı öz adınla bu şəxsə bildir 📲 [Je Luxe🧑‍💻](https://t.me/sammekkim)
+Xətanı öz adınla bu şəxsə bildir 📲 [Je Luxe🧑‍💻](https://t.me/j3luxe)
