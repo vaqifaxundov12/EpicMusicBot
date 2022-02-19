@@ -33,13 +33,13 @@ def time_to_seconds(time):
 def start(client, message):
     EpicProjects = f'👋 Salam @{message.from_user.username}\n\nMən musiqi yükləmə botuyam[🎶](https://telegra.ph/file/fe4c4a590e4fbeee6a355.mp4)\n\nDinləmək istədiyin musiqinin adını mənə göndər... 😍🥰🤗\n\nAxtarış /s Musiqi adı\n\nNümunə: `/s Okaber - Axtarma`'
     message.reply_text(
-        text=TamilBots, 
+        text=EpicProjects, 
         quote=False,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 👬', url='https://t.me/EpicProjects'),
-                    InlineKeyboardButton('Öz Botunu Yarat 👩‍💻', url='t.me/Luxesup')
+                    InlineKeyboardButton('𝐒𝐔𝐏𝐏𝐎𝐑𝐓 👬', url='https://t.me/LuxeSUP'),
+                    InlineKeyboardButton('Öz Botunu Yarat 👩‍💻', url='https://t.me/epicprojects/9')
                 ]
             ]
         )
